@@ -1,0 +1,29 @@
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+table, th, td {
+    border: 4px solid black;
+    text-align: left;
+    padding: 8px;
+    margin-bottom: 111px;
+  }
+
+h2 {
+    color: blue;
+}
+
+caption {
+    font-family: arial, sans-serif;
+    color: brown;
+}
+
+#T1 {
+  background-color: green;
+}
+
+#T2 {
+  background-color: red;
+}
